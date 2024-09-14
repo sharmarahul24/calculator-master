@@ -9,5 +9,9 @@
 </p>
 
 
-Uploading Simulator Screen Recording - iPhone 15 Pro - 2024-09-14 at 14.13.08 (1).mp4…
+
+
+https://github.com/user-attachments/assets/c7e5ec14-ad0c-4c2a-b7fd-90eb4bec2b5c
+
+
 
