@@ -1,3 +1,4 @@
+### Master Calculator
 <p>
 <img    src="https://github.com/user-attachments/assets/fe125c36-b246-4e6b-8e66-d3a2113f1a13" height = 400 weidth = 180>
 <img    src="https://github.com/user-attachments/assets/9f0ef314-57d5-412a-a7f5-d769b292e9a5" height = 400 weidth = 180>
